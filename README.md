@@ -10,9 +10,9 @@ I am actively seeking full-time opportunities as a Cloud Engineer, DevOps Engine
 
 Here are some of the key technologies I work with:
 
-* **Cloud Platforms:** Microsoft Azure, AWS, GCP
+* **Cloud Platforms:** Microsoft Azure, AWS
 * **Infrastructure as Code:** Terraform, Ansible, Azure CLI
-* **CI/CD & DevOps:** GitHub Actions, Docker, Bash scripting
+* **CI/CD & DevOps:** GitHub Actions, Docker, Bash scripting, Python
 * **System Administration:** Linux (Ubuntu, CentOS), Windows Server
 * **Databases:** MySQL
 * **Monitoring & Security:** Azure Monitor, Azure Security Center, Azure Key Vault
