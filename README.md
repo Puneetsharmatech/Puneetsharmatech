@@ -55,7 +55,7 @@ I am currently expanding my skill set to include **Kubernetes**. I believe maste
 I'm always open to discussing cloud technology, automation, and new professional opportunities.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Puneet" target="_blank">
+  <a href="https://www.linkedin.com/in/Puneetsharmatech" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="mailto:Puneetsharma201120@gmail.com" target="_blank">
