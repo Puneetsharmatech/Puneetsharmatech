@@ -1,6 +1,6 @@
 
 
-#### Hi there, I'm Puneet Sharma 👋
+### Hi there, I'm Puneet Sharma 👋
 
 I'm a Microsoft Certified Azure Administrator (AZ-104) and a recent Cloud Computing graduate from Loyalist College. I am passionate about building, securing, and automating robust cloud infrastructure with a strong focus on **DevOps** principles and **Infrastructure as Code (IaC)**.
 
