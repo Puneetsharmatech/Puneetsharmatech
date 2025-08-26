@@ -1,8 +1,23 @@
-### Hi, I'm Puneet Sharma 👋
+<div align="center">
 
-A recent Loyalist College graduate with a Post-Grad Diploma in Cloud Computing, I am a Microsoft Certified Azure Administrator (AZ-104) and a passionate cloud professional. My expertise lies in building, securing, and automating robust cloud infrastructure with a strong focus on DevOps principles and Infrastructure as Code.
+### Hi there, I'm Puneet Sharma 👋
 
-I am actively seeking full-time opportunities as a Cloud Engineer, DevOps Engineer, or Cloud Administrator across Canada.
+I'm a Microsoft Certified Azure Administrator (AZ-104) and a recent Cloud Computing graduate from Loyalist College. I am passionate about building, securing, and automating robust cloud infrastructure with a strong focus on **DevOps** principles and **Infrastructure as Code (IaC)**.
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Certification-Microsoft%20Azure%20AZ--104-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure AZ-104 Badge">
+  <img src="https://img.shields.io/badge/Cloud%20Platforms-Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure Badge">
+  <img src="https://img.shields.io/badge/IaC-Terraform-6232E6?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge">
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions Badge">
+</p>
+
+---
+
+### 💼 What I'm Looking For
+
+I'm actively seeking full-time opportunities as a **Cloud Engineer**, **DevOps Engineer**, or **Cloud Administrator** in Canada. I am eager to apply my skills to a challenging role where I can continue to grow.
 
 ---
 
@@ -10,12 +25,12 @@ I am actively seeking full-time opportunities as a Cloud Engineer, DevOps Engine
 
 Here are some of the key technologies I work with:
 
-* **Cloud Platforms:** Microsoft Azure, AWS
-* **Infrastructure as Code:** Terraform, Ansible, Azure CLI
-* **CI/CD & DevOps:** GitHub Actions, Docker, Bash scripting, Python
-* **System Administration:** Linux (Ubuntu, CentOS), Windows Server
-* **Databases:** MySQL
-* **Monitoring & Security:** Azure Monitor, Azure Security Center, Azure Key Vault
+- ☁️ **Cloud Platforms:** Microsoft Azure, AWS
+- ⚙️ **Infrastructure as Code:** Terraform, Ansible, Azure CLI
+- 🚀 **CI/CD & DevOps:** GitHub Actions, Docker, Bash scripting, Python
+- 🐧 **System Administration:** Linux (Ubuntu, CentOS), Windows Server
+- 💾 **Databases:** MySQL
+- 🔒 **Monitoring & Security:** Azure Monitor, Azure Security Center, Azure Key Vault
 
 ---
 
@@ -29,7 +44,7 @@ I've applied my skills to solve real-world problems in my projects. You can find
 
 ---
 
-### 🌱 I'm currently learning...
+### 🌱 Currently Learning...
 
 I am currently expanding my skill set to include **Kubernetes**. I believe mastering container orchestration is a critical next step for any cloud professional looking to thrive in the modern tech landscape.
 
@@ -39,7 +54,13 @@ I am currently expanding my skill set to include **Kubernetes**. I believe maste
 
 I'm always open to discussing cloud technology, automation, and new professional opportunities.
 
-* **LinkedIn:** [linkedin.com/in/Puneet](https://www.linkedin.com/in/Puneet)
-* **Email:** Puneetsharma201120@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/Puneet" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="mailto:Puneetsharma201120@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  </a>
+</p>
 
----
+</div>
