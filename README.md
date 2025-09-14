@@ -1,46 +1,58 @@
 ### Hi there, I'm Puneet Sharma 👋
 
-I'm a recent cloud computing graduate from Loyalist College with a passion for building, securing, and automating robust cloud infrastructure. My focus is on **DevOps** principles and **Infrastructure as Code (IaC)**, and I'm a Microsoft Certified Azure Administrator (AZ-104) with a knack for turning complex problems into scalable, elegant solutions.
+Cloud computing grad 🎓 from Loyalist College. Passionate about building, securing, and automating infrastructure. My jam? **DevOps** and **Infrastructure as Code (IaC)**. I'm a certified Azure Administrator (AZ-104) with a knack for turning complex problems into scalable solutions.
 
-I'm currently seeking a full-time **Cloud Engineer**, **DevOps Engineer**, or **Cloud Administrator** role in Canada where I can contribute my skills and continue to grow.
-
----
-
-### My Journey with Code
-
-I believe that the best solutions are not just functional—they're automated, secure, and built for scale. This passion drives me to constantly explore and build. My toolbox is built around this philosophy, with a focus on **Azure**, **Terraform**, **Docker**, and **Python**.
+Currently on the hunt 🕵️‍♂️ for a full-time **Cloud Engineer**, **DevOps Engineer**, or **Cloud Administrator** role in Canada. Ready to learn and contribute!
 
 ---
 
-### My GitHub Stats
+### My Tools of the Trade 🛠️
+
+My work is all about automation, security, and scale. My toolbox is built on this philosophy.
+
+* **Cloud Platforms:** ☁️ Microsoft Azure, AWS
+* **IaC & Automation:** ⚙️ Terraform, Ansible, Azure CLI
+* **CI/CD & DevOps:** 🚀 Docker, GitHub Actions, Python, Bash Scripting
+* **System Administration:** 🐧 Linux (Ubuntu, CentOS), Windows Server
+* **Databases:** 💾 MySQL
+* **Monitoring & Security:** 🔒 Azure Monitor, Azure Security Center, Azure Key Vault
+
+---
+
+### My GitHub Stats 📈
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=puneetsharmatech&show_icons=true&theme=dark" alt="Puneet's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetsharmatech&layout=compact&theme=dark" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=puneetsharmatech&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Puneetsharmatech&show_icons=true&theme=dark" alt="Puneet's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puneetsharmatech&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+### The Spider's Web 🕸️
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/activities?username=PuneetSharma07&theme=github_dark_green" alt="Spider's Web" />
 </p>
 
 ---
 
-### Featured Projects
+### Featured Projects 🚀
 
-I've applied my skills to solve real-world problems. You can find detailed breakdowns of these projects in my pinned repositories.
+Solving real-world problems. Check out the details in my pinned repositories!
 
-* **AI-Based Cloud Compliance Tool:** Developed a Python-based, containerized application to automate cloud infrastructure scanning for compliance with industry standards like PCI, HIPAA, and NIST.
-* **Cloud Hygiene Bot:** Created a custom automation solution to monitor cloud usage and costs, identifying unused resources and enforcing security best practices.
-* **Three-Tier E-commerce Web Application:** Architected and deployed a scalable web platform on Azure, focusing on high availability, performance testing, and securing the backend database.
-
----
-
-### What's Next?
-
-I'm expanding my skill set to include **Kubernetes**, as I'm convinced that mastering container orchestration is a critical next step for any cloud professional looking to thrive in the modern tech landscape.
+* **AI-Based Cloud Compliance Tool:** Python-based, containerized app to automate cloud infrastructure scanning for compliance (PCI, HIPAA, NIST).
+* **Cloud Hygiene Bot:** Custom automation solution for monitoring cloud usage, identifying unused resources, and enforcing security.
+* **Three-Tier E-commerce Web Application:** Architected and deployed a scalable web platform on Azure. Focused on high availability, performance testing, and security.
 
 ---
 
-### Let's Connect
+### What's Next? 🗺️
 
-I'm always open to discussing cloud technology, automation, and new professional opportunities.
+Currently diving deep into **Kubernetes**. I believe mastering container orchestration is the next big step for a cloud professional.
+
+---
+
+### Let's Connect! 💬
+
+Always open to discussing cloud technology, automation, and opportunities.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Puneetsharmatech" target="_blank">
@@ -50,6 +62,7 @@ I'm always open to discussing cloud technology, automation, and new professional
     <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
 </p>
+
 
 
 
