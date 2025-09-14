@@ -24,12 +24,7 @@ My work is all about automation, security, and scale. My toolbox is built on thi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Puneetsharmatech&show_icons=true&theme=dark" alt="Puneet's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puneetsharmatech&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-### The Spider's Web 🕸️
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/activities?username=PuneetSharma07&theme=github_dark_green" alt="Spider's Web" />
+  <img src="https://streak-stats.demolab.com/?user=Puneetsharmatech&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -62,6 +57,7 @@ Always open to discussing cloud technology, automation, and opportunities.
     <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
 </p>
+
 
 
 
