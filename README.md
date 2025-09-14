@@ -15,9 +15,9 @@ I believe that the best solutions are not just functional—they're automated, s
 ### My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PuneetSharma07&show_icons=true&theme=dark" alt="Puneet's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuneetSharma07&layout=compact&theme=dark" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=PuneetSharma07&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=puneetsharmatech&show_icons=true&theme=dark" alt="Puneet's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetsharmatech&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=puneetsharmatech&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
